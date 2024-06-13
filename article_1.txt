@@ -1,0 +1,24 @@
+Title: Le mythe de l’intelligence artificiel
+
+Content:
+(english version here)
+Il marrant d’entendre ici et là de grands penseurs essayer de comprendre le Saint-Graal de toute réussite sociale au 21e siècle: les algorithmes de publications tels que YouTube, Facebook ou Twitter pour ne citer que les plus connus.
+Il existe un mythe qu’une intelligence artificielle serait capable de déceler ce qui est bon pour vous après avoir violé toutes vos données. Si seulement ces youtubeurs en herbe savaient la vérité qui n’est pas compliquée en soi, mais qui, dans le marasme des informations non divulguées par les gérants, fait fantasmer de complexe calcul.
+Intelligence artificielle faite peur et il suffit de lire n’importe quelle livre d’un pseudodocteur incompétent pour s’en rendre compte. Rapidement viendront des exemples de science-fiction tels que Terminator, HAL, Skynet, ou tout autre exemple ressemblant de près ou de loin au mythe de Franckenstein : ce savant fou qui perdra contrôle de sa création.
+Rien qu’Intelligence artificielle fait peur car pour n’importe quel humain, intelligence est une caractéristique fondamentale de se qu’on est, et en créer une autrement que par la biologie et l’éducation rendrait caduque la notion même d’humanité. Pourtant, Intelligence artificielle n’a d’intelligence que le nom.
+D’abord, concernant tous ces livres qui se basent sur la peur en présentant une couverture souvent sombre et dépeignant un monde apocalyptique; pourquoi aucun d’eux ne site l’exemple d’intelligence artificielle gentil voire neutre tel que « Ordinateur » dans StarTrek .
+Ordinateur est l’assistance de contrôle de tout le flet USS entreprise, le commandant l’appelant souvent en début d’épisode « Ordinateur, journal de bord ». Cette intelligence artificielle, car c’est une I.A., est capable de gérer un navire de plus de 1500 personnes, capable de détruire 1500 vies et pourtant obéie au doigt et à l’œil. Data en est d’ailleurs un autre exemple.
+Des images
+L’une des questions intéressantes à se poser est combien d’images a-t-il été nécessaire pour qu’une IA arrive a reconnaitre un chien ? Dans toutes les créations d’IA, il y a une étape apprentissage. Celle-ci consiste en la gavé d’un nombre incalculable de données afin qu’après, tout seul comme une grande, elle puisse nommé d’elle-même une vague image.
+Ainsi une IA entrainée à reconnaitre des chiens, aura vu dans son processus l’ensemble des types de chiens de la planète. Croyez-vous vraiment qu’un gamin de 5 ans, capable de reconnaitre n’importe canidé, à eu besoin de voir des millions d’images afin d’en reconnaitre un ? Là où un gamin a besoin de concept, une IA a besoin de data et tant que cela sera le cas, aucune intelligence virtuelle ne sera capable de rivaliser avec une intelligence bien réelle.
+Un meilleur moyen de se convaincre est de se représenter une I.A. comme un gros fichier Excel (un tableur) de 1 milliard de colonnes par un milliard de lignes et avec la règle suivante.
+dans la colonne A, vous mettez ce que vous voulez (image, chiffre, nombre, phrase, etc.)
+dans la colonne B, vous pouvez utiliser toutes les formules mathématiques que vous voulez (addition, mixage, filtre, etc.), mais elles ne peuvent s’appliquer que sur les données de la colonne B.
+Dans la colonne C, idem. Toutes les formules que vous voulez, mais les données nécessaires de peuvent provenir que de la colonne B. Et ainsi de suite. Pour chaque colonne, seules seront traitées les données de la colonne située à la gauche.
+Enfin dans la dernière colonne (la milliardième) se situe la réponse de l’IA.
+Ce fichier Excel, énorme, qui traine sur votre desktop de votre bureau, considérez-vous que ce fichier possède une quelconque intelligence ? Non évidemment. Pourtant ce fichier est plus proche de toutes les intelligences artificielles passé, présent, et futur pour au moins les 50 prochaines années que n’importe quel robot venu du futur.
+Si l’I.A. évolue, elle ne prendra pas la forme d’un squelette bodybuilder voulant remonter le futur afin de tuer la genèse. Non, elle prendra la forme que voudra qu’elle prenne. Il vaut mieux avoir peur de l’homme qui la crée que de la création elle-même.
+--
+--
+
+

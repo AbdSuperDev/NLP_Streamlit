@@ -1,0 +1,15 @@
+Title: Bureau européen de l’intelligence artificielle
+
+Content:
+Par une décision du 24 janvier 2024 publiée au JOUE du 14 février 2024, la Commission européenne a créé le Bureau européen de l’intelligence artificielle.
+Cette décision fait suite à la proposition de la Commission du 21 avril 2021 pour un règlement établissant des règles harmonisées sur l’intelligence artificielle (IA), dans le but de favoriser son adoption tout en atténuant les #risques associés à certaines de ses utilisations.
+Le Bureau a pour mission de surveiller les avancées des modèles d’IA et leur interaction avec la communauté scientifique. Il a une portée mondiale et joue un rôle clé dans les #enquêtes, les #essais et l’#application de la législation sur l’IA.
+Ce Bureau fonctionnera conformément aux processus internes de la Commission européenne, et sa création ne devrait pas affecter les compétences des autorités nationales et des organes de l’Union européenne déjà en charge de la surveillance des systèmes d’IA. Il s’efforcera de ne pas faire double emploi avec les activités de ces organes, et se concentrera notamment sur la publication d’orientations.
+La décision de créer ce Bureau prend effet de manière urgente, avant même l’adoption du règlement sur l’IA, suite à un accord politique entre le Conseil et le Parlement européen en décembre 2023. Cette décision pourra être révisée une fois le règlement officiellement adopté.
+Sources:
+- https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ:C_202401459
+- https://www.actu-juridique.fr/breves/affaires/intelligence-artificielle-creation-dun-bureau-europeen/
+--
+--
+
+
