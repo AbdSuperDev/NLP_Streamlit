@@ -12,12 +12,11 @@ import spacy
 from nltk.corpus import stopwords
 from nltk.stem.snowball import FrenchStemmer
 
-# Téléchargements nécessaires
+# Download required NLTK data
 nltk.download('punkt')
 nltk.download('stopwords')
-subprocess.run(["python", "-m", "spacy", "download", "fr_core_news_sm"])
 
-# Initialiser SpaCy
+# Load the small French model
 nlp = spacy.load('fr_core_news_sm')
 
 # Initialize French stemmer
@@ -113,7 +112,7 @@ elif vectorization_method == "BERT":
 
     article_vectors = torch.stack([get_bert_embedding(" ".join(article)) for article in preprocessed_corpus])
     keyword_vector = get_bert_embedding(" ".join(keywords)).unsqueeze(0)
-
+    
 
 # Calculate cosine similarity
 similarities = cosine_similarity(article_vectors, keyword_vector)
