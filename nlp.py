@@ -112,6 +112,7 @@ elif vectorization_method == "BERT":
 
     article_vectors = torch.stack([get_bert_embedding(" ".join(article)) for article in preprocessed_corpus])
     keyword_vector = get_bert_embedding(" ".join(keywords)).unsqueeze(0)
+    
 
 # Calculate cosine similarity
 similarities = cosine_similarity(article_vectors, keyword_vector)
