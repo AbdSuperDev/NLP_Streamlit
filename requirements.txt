@@ -1,0 +1,8 @@
+streamlit
+nltk
+numpy
+scikit-learn
+gensim
+torch
+transformers
+spacy
